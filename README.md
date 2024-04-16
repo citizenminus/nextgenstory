@@ -1,0 +1,2 @@
+# nextgenstory
+A story generator
